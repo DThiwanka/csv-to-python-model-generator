@@ -1,0 +1,6 @@
+{
+  "name": "CSV to Python Model Generator",
+  "description": "Upload a CSV file, select a target variable, and get AI-generated Python code for a predictive model using scikit-learn. Powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
